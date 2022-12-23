@@ -1,0 +1,35 @@
+﻿<Window x:Class="Kółko_i_krzyżyk___projekt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kółko_i_krzyżyk___projekt"
+        mc:Ignorable="d"
+        Title="Kółko i krzyżyk" Height="450" Width="800" ResizeMode="CanMinimize" >
+    <Grid Margin="0,0,0,13" Width="800" Height="500" >
+        <Button FontSize="35" Name="Btn1" Content="" HorizontalAlignment="Left" Margin="26,58,0,0" VerticalAlignment="Top" Height="84" Width="102" Click="Btn1_Click"/>
+        <Button FontSize="35" Name="Btn2" Content="" HorizontalAlignment="Left" Margin="133,58,0,0" VerticalAlignment="Top" Height="84" Width="102" Click="Btn2_Click"/>
+        <Button FontSize="35" Name="Btn3" Content="" HorizontalAlignment="Left" Margin="240,58,0,0" VerticalAlignment="Top" Height="84" Width="102" Click="Btn3_Click"/>
+        <Button FontSize="35" Name="Btn4" Content="" HorizontalAlignment="Left" Margin="26,147,0,0" VerticalAlignment="Top" Height="84" Width="102" Click="Btn4_Click"/>
+        <Button FontSize="35" Name="Btn5" Content="" HorizontalAlignment="Left" Margin="133,147,0,0" VerticalAlignment="Top" Height="84" Width="102" Click="Btn5_Click"/>
+        <Button FontSize="35" Name="Btn6" Content="" HorizontalAlignment="Left" Margin="240,147,0,0" VerticalAlignment="Top" Height="84" Width="102" Click="Btn6_Click"/>
+        <Button FontSize="35" Name="Btn7" Content="" HorizontalAlignment="Left" Margin="26,236,0,0" VerticalAlignment="Top" Height="84" Width="102" Click="Btn7_Click"/>
+        <Button FontSize="35" Name="Btn8" Content="" HorizontalAlignment="Left" Margin="133,236,0,0" VerticalAlignment="Top" Height="84" Width="102" Click="Btn8_Click"/>
+        <Button FontSize="35" Name="Btn9" Content="" HorizontalAlignment="Left" Margin="240,236,0,0" VerticalAlignment="Top" Height="84" Width="102" Click="Btn9_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="450,58,0,0" Text="Ruch gracza:" TextWrapping="Wrap" VerticalAlignment="Top" Height="42" Width="125" FontSize="22"/>
+        <TextBlock Name="RuchGracza" HorizontalAlignment="Left" Margin="580,58,0,0" Text="O" TextWrapping="Wrap" VerticalAlignment="Top" Height="42" Width="69" FontSize="22" RenderTransformOrigin="0.522,0.84"/>
+        <TextBlock HorizontalAlignment="Left" Margin="450,147,0,0" Text="Tabela wyników:" TextWrapping="Wrap" VerticalAlignment="Top" Height="29" Width="164" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="450,189,0,0" Text="Gracz O:" TextWrapping="Wrap" VerticalAlignment="Top" Width="102" Height="42" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="450,0,0,0" Text="Gracz X:" TextWrapping="Wrap" VerticalAlignment="Center" Height="56" Width="102" FontSize="22"/>
+        <TextBlock Name="WynikO" HorizontalAlignment="Left" Margin="532,189,0,0" Text=" 0" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="69" FontSize="22"/>
+        <TextBlock Name="WynikX" HorizontalAlignment="Left" Margin="532,0,0,0" Text=" 0" TextWrapping="Wrap" VerticalAlignment="Center" Height="56" Width="74" FontSize="22"/>
+        <Button Name="Restartuj" Content="Restartuj grę" HorizontalAlignment="Left" Margin="595,283,0,0" VerticalAlignment="Top" Height="42" Width="159" FontSize="22" Click="Restartuj_Click"/>
+        <Button Name="Zapisz" FontSize="22" Content="Zapisz wynik" HorizontalAlignment="Left" Margin="416,283,0,0" VerticalAlignment="Top" Height="42" Width="159" Click="Zapisz_Click"/>
+        <TextBlock FontSize="15" HorizontalAlignment="Left" Margin="26,325,0,0" Text="Zmień kolor tła" TextWrapping="Wrap" VerticalAlignment="Top" Height="26" Width="115"/>
+        <Button Content="Biały" HorizontalAlignment="Left" Margin="26,351,0,0" VerticalAlignment="Top" Height="18" Width="73" Click="Button_Click"/>
+        <Button Content="Zielony" HorizontalAlignment="Left" Margin="26,374,0,0" VerticalAlignment="Top" Height="18" Width="73" Click="Button_Click_2"/>
+        <Button Content="Niebieski" HorizontalAlignment="Left" Margin="104,351,0,0" VerticalAlignment="Top" Height="18" Width="73" Click="Button_Click_1"/>
+        <Button Content="Żółty" HorizontalAlignment="Left" Margin="104,374,0,0" VerticalAlignment="Top" Height="18" Width="73" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>

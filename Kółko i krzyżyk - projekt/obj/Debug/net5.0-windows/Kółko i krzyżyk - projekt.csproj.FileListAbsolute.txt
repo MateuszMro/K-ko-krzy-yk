@@ -1,0 +1,22 @@
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\bin\Debug\net5.0-windows\Kółko i krzyżyk - projekt.exe
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\bin\Debug\net5.0-windows\Kółko i krzyżyk - projekt.deps.json
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\bin\Debug\net5.0-windows\Kółko i krzyżyk - projekt.runtimeconfig.json
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\bin\Debug\net5.0-windows\Kółko i krzyżyk - projekt.runtimeconfig.dev.json
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\bin\Debug\net5.0-windows\Kółko i krzyżyk - projekt.dll
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\bin\Debug\net5.0-windows\ref\Kółko i krzyżyk - projekt.dll
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\bin\Debug\net5.0-windows\Kółko i krzyżyk - projekt.pdb
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\Kółko i krzyżyk - projekt.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\Kółko i krzyżyk - projekt_MarkupCompile.cache
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\Kółko i krzyżyk - projekt_MarkupCompile.lref
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\Kółko i krzyżyk - projekt.g.resources
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\Kółko i krzyżyk - projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\Kółko i krzyżyk - projekt.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\Kółko i krzyżyk - projekt.AssemblyInfo.cs
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\Kółko i krzyżyk - projekt.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\Kółko i krzyżyk - projekt.dll
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\ref\Kółko i krzyżyk - projekt.dll
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\Kółko i krzyżyk - projekt.pdb
+C:\Users\1\source\repos\Kółko i krzyżyk - projekt\Kółko i krzyżyk - projekt\obj\Debug\net5.0-windows\Kółko i krzyżyk - projekt.genruntimeconfig.cache
